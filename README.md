@@ -54,7 +54,6 @@ Electricity thefts are increasing every year across domestic as well as industri
 
 Energy Monitoring using IOT is an application of internet of things developed to control home appliances remotely over the cloud from anywhere in the world. In the proposed project current sensor and voltage sensor are used to sense the current and voltage and display it on internet using IoT. The system updates the information in every 5 seconds on the internet using BLYNK app. In the present system, energy load consumption is accessed using Wi-Fi and it will help consumers to avoid unwanted use of electricity. 
 
-![image](https://github.com/Abhirambs-08/IOT-Based-Smart-Energy-Meter-BEC/assets/119886477/1b0c2730-dfce-48f3-9472-b4eb1c39fa3f)
 
 
 IoT system where a user can monitor energy consumption and pay the bill Online can be made. Also, a system where a user can receive SMS, when he/she crosses threshold of electricity usage slab can be equipped. A system can be made which can send SMS to the concerned meter reading man of that area when theft is detected at consumer end. Also using cloud analytics, future predictions of energy consumptions can be made.
