@@ -15,7 +15,6 @@ In this project, a smart electricity energy meter using ESP32 Wi-Fi module is ma
 Electricity thefts are increasing every year across domestic as well as industrial domains which affect the economic status of the country. Various wireless communication systems are available to detect the power theft, but lacks the required infrastructure needed to employ them. The project's aim is to design a system to monitor the power consumed by load and to detect and eliminate the power theft in energy meters. 
 
 ## DESCRIPTION OF PROJECT
-![image](https://github.com/Abhirambs-08/IOT-Based-Smart-Energy-Meter-BEC/assets/119886477/ff3c1b06-750b-42e4-84bf-63f301ae012c)
 
 ## Components used:
 - ESP32 Development Board
